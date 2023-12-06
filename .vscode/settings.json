@@ -2,5 +2,5 @@
     "files.exclude": {
         "**/*.html": true
     },
-    "liveServer.settings.root": "/www"
+    "liveServer.settings.root": "/docs"
 }
